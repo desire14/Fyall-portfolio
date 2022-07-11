@@ -1,14 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to my Portfolio
+My name is Dasaray Fyall and I am an experienced Administrative Professional with a demonstrated history of working in the public sector seeking to transition into software development. Throughout my career, I have gained a diverse range of skills that can be transferred into the IT sector. Also, I am currently enrolled into Generation USA Full Stack Software Development Bootcamp.
 
-You can use the [editor on GitHub](https://github.com/desire14/Fyall-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Previous Experiences
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a more detail look of my work experience. The skills that I've gained can be transferred into the IT sector.
 
-### Markdown
+### Samples
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have compiled a collection of samples that I developed during my time as an Administrative Assistant and as a student in the Computer Technology program at Trident Technical College. Feel free to browse through the samples and click on the links to view completed work.
+[click here to view samples](https://github.com/desire14)
 
-```markdown
+
+<!--```markdown
 Syntax highlighted code block
 
 # Header 1
@@ -30,8 +33,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/desire14/Fyall-portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/desire14/Fyall-portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file. -->
 
-### Support or Contact
+### Let's work together!
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Feel free to contact me at (843) 936-0144 or via email dfyall14@gmail.com. I look forward to hearing and working with you!
