@@ -1,2 +1,2 @@
-theme: docker-compose up
+remote_theme: docker-compose up
 <!--jekyll-theme-minimal-->
