@@ -4,6 +4,7 @@ My name is Dasaray Fyall and I am an experienced Administrative Professional wit
 ### Previous Experiences
 
 This is a more detail look of my work experience. The skills that I've gained can be transferred into the IT sector.
+[click here to view resume](https://drive.google.com/file/d/10nA0-yl0O8f4K2P0m0RImlp8lmGQUiAR/view)
 
 ### Samples
 
